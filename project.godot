@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Game- 2d"
+config/name="Puzzling Path"
 config/icon="res://icon.png"
 
 [autoload]
